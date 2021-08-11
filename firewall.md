@@ -33,3 +33,5 @@ Note that 'match' operator can only work for Regex Expression object in the valu
 
 `value: new RegExp('Fill your regex here')`
 
+'greater' or 'less' only works for 'asn'. 'contain' | 'not contain' | 'equal' | 'not equal' works for everything else besides 'asn'
+
